@@ -18,8 +18,7 @@ Setup
 1. Clone the repository
 2. Create a .env file based on .env.example
 3. Add your Google Maps API key to .env
-4. Install required packages:
-   pip install -r requirements.txt
+
 
 Environment Variables
 ------------------
@@ -42,7 +41,7 @@ The project collects the following data for each supper club:
 Usage
 -----
 1. Run wi-supper-club-collector.ipynb to collect basic data
-2. Run geocoding-api-test.ipynb to add geographical coordinates
+2. Run geocoding-api-test.ipynb for a simple test for an address input
 3. Processed data will be saved in the data/ directory
 
 Note
@@ -51,7 +50,7 @@ Please ensure your Google Maps API key is kept secret and never committed to the
 
 Author
 ------
-tooo (GitHub: tooobening)
+Yu-Ning Liu (GitHub: tooobening)
 
 Last Updated
 -----------
