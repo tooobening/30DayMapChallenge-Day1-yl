@@ -9,8 +9,8 @@ Project Structure
 ---------------
 .idea/              - PyCharm project settings
 data/               - Collected and processed data
-beautifulsoup.py    - Web scraping script
-geocoding-api-test.ipynb    - Jupyter notebook for testing geocoding
+beautifulsoup.py    - Python example for Web scraping script
+geocoding-api-test.ipynb    - Jupyter notebook example for testing geocoding using a simple address input
 wi-supper-club-collector.ipynb    - Main data collection notebook
 
 Setup
